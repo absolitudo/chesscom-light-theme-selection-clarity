@@ -1,0 +1,8 @@
+.selection-square {
+    background-color: rgb(111, 0, 255) !important;
+}
+
+.legal-move-hint-inner {
+    background-color: green !important;
+    opacity: 0.5 !important;
+}
